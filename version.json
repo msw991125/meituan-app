@@ -1,17 +1,17 @@
 {
   "merchant": {
     "version": "2.0.0",
-    "url": "http://192.168.43.4:5555/merchant_final.apk",
+    "url": "https://msw991125.github.io/meituan-app/merchant_final.apk",
     "changelog": "V2更新: 支持图片上传、版本在线更新、一键下载安装"
   },
   "user": {
     "version": "1.0.0",
-    "url": "http://192.168.43.4:5555/user.apk",
+    "url": "https://msw991125.github.io/meituan-app/user.apk",
     "changelog": ""
   },
   "rider": {
     "version": "1.0.0",
-    "url": "http://192.168.43.4:5555/rider.apk",
+    "url": "https://msw991125.github.io/meituan-app/rider.apk",
     "changelog": ""
   }
 }

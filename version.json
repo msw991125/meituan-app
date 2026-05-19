@@ -1,8 +1,8 @@
 {
   "merchant": {
-    "version": "2.5.0",
+    "version": "3.0.0",
     "url": "https://msw991125.github.io/meituan-app/merchant_final.apk",
-    "changelog": "V2.5: APK下载转发到系统浏览器"
+    "changelog": "V3.0: APK转发浏览器下载+在线更新"
   },
   "user": {
     "version": "1.0.0",

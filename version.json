@@ -1,8 +1,8 @@
 {
   "merchant": {
-    "version": "3.6.0",
+    "version": "3.7.0",
     "url": "https://msw991125.github.io/meituan-app/merchant_final.apk",
-    "changelog": "V3.6: 稳定版(ApkInterceptor)"
+    "changelog": "V3.7: 自动登录+退出登录"
   },
   "user": {
     "version": "1.0.0",

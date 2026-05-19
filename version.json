@@ -2,16 +2,16 @@
   "merchant": {
     "version": "4.5.0",
     "url": "https://msw991125.github.io/meituan-app/merchant_final.apk",
-    "changelog": "V4.5: 稳定版(同V3.6)"
+    "changelog": "V4.5: 稳定版"
   },
   "user": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": "https://msw991125.github.io/meituan-app/user.apk",
-    "changelog": ""
+    "changelog": "V1.1: 新增版本检查更新"
   },
   "rider": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": "https://msw991125.github.io/meituan-app/rider.apk",
-    "changelog": ""
+    "changelog": "V1.1: 新增版本检查更新"
   }
 }
